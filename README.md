@@ -65,6 +65,9 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
+![captura de pantalla 64](https://user-images.githubusercontent.com/43568460/50142847-5fb6f600-02ab-11e9-86d0-8dfbc7e3bbdd.png)
+
+
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
