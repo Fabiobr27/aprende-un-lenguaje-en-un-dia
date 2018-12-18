@@ -148,6 +148,10 @@ for(i = 0 ; i<20; i++){
    System.out.println(numero[i])
    }
 ```
+![captura de pantalla 66](https://user-images.githubusercontent.com/43568460/50147063-82e6a300-02b5-11e9-96ed-3bc7e2023f69.png)
+
+![captura de pantalla 67](https://user-images.githubusercontent.com/43568460/50147106-985bcd00-02b5-11e9-81f8-1aec188fde9c.png)
+
 
 
 ## Presentación de resultados
