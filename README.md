@@ -98,6 +98,55 @@ Dada una altura introducida por el usuario, realiza un programa que pinte una pi
 ### 3. Arrays y números aleatorios
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
+```groovy
+package Holamundo;
+import java.util.Scanner;
+
+int [] numero = new int [20];
+int [] primo =  new int [20];
+int [] Noprimo = new int [20];
+int i;
+int j;
+int primos = 0;
+int Noprimos= 0;
+boolean esPrimo = false;
+
+
+System.out.println("ARRAY ORDERNAR PRIMO")
+
+for(i = 0 ; i<20; i++){
+ numero[i] =(int) (Math.random()*100)
+ esPrimo= true;
+ for( j = 2 ; j < numero[i];j++){
+   if(numero[i] % 2 == 0){
+	 esPrimo = false;
+   }
+ }
+   if(esPrimo){
+  primo[primos++]=numero[i];
+}else{
+  Noprimo[Noprimos++]=numero[i]
+ }
+ }
+ 
+ System.out.println("Array Original")
+ 
+ for(i= 0 ; i <20; i++){
+   System.out.println(numero[i]);
+ }
+ for (i = 0 ; i < primos+ Noprimos; i++){
+   numero[i] = primo[i];
+ }
+ for (i = primos ; i < primos + Noprimos; i++){
+  numero[i] = Noprimo[i - primos];
+ }
+		
+ System.out.println("Array Cambiado")
+ for(i = 0 ; i <20;i ++){
+   System.out.println(numero[i])
+   }
+```
+
 
 ## Presentación de resultados
 
