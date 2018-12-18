@@ -74,6 +74,8 @@ https://www.genbeta.com/desarrollo/mejora-tu-codigo-java-usando-groovy
 
 Hay varias opciones ; se puede instalar la consola de groovy desde su página oficial , usar el lenguaje en los diferentess IDE's o instalar el lenguaje en una máquina virtual . 
 
+Enlace de descarga--http://groovy-lang.org/download.html
+
 ## Poniendo en práctica el lenguaje
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
