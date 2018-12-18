@@ -44,7 +44,6 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
 
 El lenguaje groovy es un superconjunto del lenguaje java  , de hecho un archivo .java , se puede renombrar en uno .groovy y podría seguir funcionando (salvo algunas incompatibilidades ). Tiene otras características principales como tipado estático y dinámico , sintáxis nativa para la manipulación de listas y maps , clousures .... .
 El compilador Groovy genera bytecodes Java estándard que pueden usarse dentro de cualquier proyecto Java. Además, la mayoría del código Java es sintácticamente válido en Groovy.
@@ -56,7 +55,7 @@ https://www.genbeta.com/desarrollo/mejora-tu-codigo-java-usando-groovy
 
 ## Herramientas de desarrollo
 
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
+Hay varias opciones ; se puede instalar la consola de groovy desde su página oficial , usar el lenguaje en los diferentess IDE's o instalar el lenguaje en una máquina virtual . 
 
 ## Poniendo en práctica el lenguaje
 
