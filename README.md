@@ -52,6 +52,8 @@ El compilador Groovy genera bytecodes Java estándard que pueden usarse dentro d
 
 Se creó en 2003 , su creador es  James Strachan ( un ingeniero de software ).
 
+https://www.genbeta.com/desarrollo/mejora-tu-codigo-java-usando-groovy
+
 ## Herramientas de desarrollo
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
