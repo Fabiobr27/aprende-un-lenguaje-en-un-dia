@@ -96,6 +96,31 @@ println "¡Hola Mundo!"
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+```groovy
+package HolaMundo;
+
+print "Introduzca numero de filas: "
+Scanner scan = new Scanner(System.in);
+
+def numFilas =scan.nextLine() as Integer
+ 
+System.out.println();
+for(int altura = 1; altura<=numFilas; altura++){
+	//Espacios en blanco
+	for(int blancos = 1; blancos<=numFilas-altura; blancos++){
+		System.out.print(" ");
+	}
+	 
+	//Asteriscos
+	for(int asteriscos=1; asteriscos<=(altura*2)-1; asteriscos++){
+		System.out.print("*");
+	}
+	System.out.println();
+}
+```
+![captura de pantalla 68](https://user-images.githubusercontent.com/43568460/50147356-3b144b80-02b6-11e9-98ea-ca36907343a7.png)
+
+
 
 ### 3. Arrays y números aleatorios
 
