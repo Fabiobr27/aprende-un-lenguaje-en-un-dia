@@ -15,7 +15,7 @@ El lenguaje groovy es un superconjunto del lenguaje java  , de hecho un archivo 
 
 El compilador Groovy genera bytecodes Java estándard que pueden usarse dentro de cualquier proyecto Java. Además, la mayoría del código Java es sintácticamente válido en Groovy.
 Se creó en 2003 , su creador es  James Strachan ( un ingeniero de software ).
-Aquí tenemos 2 de sus principales ventajas;
+Aquí tenemos 2 de sus principales ventajas:
 
 Uso de properties:
 
