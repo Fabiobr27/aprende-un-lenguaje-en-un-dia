@@ -10,8 +10,9 @@
 ## Información sobre el lenguaje
 
 
-El lenguaje groovy es un superconjunto del lenguaje java  , de hecho un archivo .java , se puede renombrar en uno .groovy y podría seguir funcionando (salvo algunas incompatibilidades ). Tiene otras características principales como tipado estático y dinámico , sintáxis nativa para la manipulación de listas y maps , clousures...
+El lenguaje groovy es un superconjunto del lenguaje java  , de hecho un archivo .java , se puede renombrar en uno .groovy y podría seguir funcionando (salvo algunas incompatibilidades ). Tiene otras características principales como tipado estático y dinámico , sintáxis nativa para la manipulación de listas y maps , clousures .... .
 El compilador Groovy genera bytecodes Java estándard que pueden usarse dentro de cualquier proyecto Java. Además, la mayoría del código Java es sintácticamente válido en Groovy.
+Se creó en 2003 , su creador es  James Strachan ( un ingeniero de software ).
 Aquí tenemos 2 de sus principales ventajas;
 
 Uso de properties:
@@ -31,13 +32,12 @@ Closures vs Lambdas:
 
 
 
-Se creó en 2003 , su creador es  James Strachan ( un ingeniero de software ).
 
 https://www.genbeta.com/desarrollo/mejora-tu-codigo-java-usando-groovy
 
 ## Herramientas de desarrollo
 
-Hay varias opciones ; se puede instalar la consola de groovy desde su página oficial , usar el lenguaje en los diferentess IDE's o instalar el lenguaje en una máquina virtual . 
+Hay varias opciones ; se puede instalar la consola de groovy desde su página oficial , usar el lenguaje en los diferentes IDE's o instalar el lenguaje en una máquina virtual . 
 
 Enlace de descarga--http://groovy-lang.org/download.html
 
