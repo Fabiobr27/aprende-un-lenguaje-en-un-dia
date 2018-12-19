@@ -1,4 +1,4 @@
-# Aprende un lenguaje de programación en un día - Groovy
+# Groovy
 
 ## Miembros del grupo
 
